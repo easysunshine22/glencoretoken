@@ -1332,9 +1332,9 @@ button:focus {
 }
 
 /* ==========================================================================
-   airdrop section
+   presale section
    ========================================================================== */
-.airdrop-hero-area {
+.presale-hero-area {
   background: url(../img/hero-area.jpg) no-repeat;
   background-size: auto;
   background-size: cover;
@@ -1343,247 +1343,247 @@ button:focus {
   position: relative;
 }
 
-.airdrop-hero-area .contents {
+.presale-hero-area .contents {
   padding: 160px 0 140px;
 }
 
-#airdrop {
+#presale {
   background: #f9f9f9;
 }
-#airdrop .airdrop-item{
+#presale .presale-item{
   width: 100% !important;
   text-align: center;
   padding: 30px;
 }
 
-#airdrop .airdrop-item h3{
+#presale .presale-item h3{
   font-size: 18px;
 }
-#airdrop .airdrop-item a{
+#presale .presale-item a{
   display: block;
   margin: auto;
   width: 30%;
   margin-top: 10px;
 }
 
-#airdrop .airdrop-item-wrapper {
+#presale .presale-item-wrapper {
   border: 1px solid #ddd;
   background-color: #fff;
   -moz-transition: all 0.8s ease;
   -webkit-transition: all 0.8s ease;
   transition: all 0.8s ease;
 }
-#airdrop .airdrop-item-wrapper:hover {
+#presale .presale-item-wrapper:hover {
   box-shadow: 0px 0px 25px 0px rgba(95, 95, 95, 0.24);
   -moz-transition: all 0.8s ease;
   -webkit-transition: all 0.8s ease;
   transition: all 0.8s ease;
   border-color: #000000;
 }
-#airdrop .airdrop-item-wrapper:hover h3 a {
+#presale .presale-item-wrapper:hover h3 a {
   color: #000000;
 }
-#airdrop .airdrop-item-wrapper .airdrop-item-text {
+#presale .presale-item-wrapper .presale-item-text {
   padding: 26px 30px 30px 30px;
 }
-#airdrop .airdrop-item-wrapper h3 {
+#presale .presale-item-wrapper h3 {
   font-size: 20px;
   font-weight: 600;
   line-height: 28px;
   margin-bottom: 12px;
 }
-#airdrop .airdrop-item-wrapper h3 a {
+#presale .presale-item-wrapper h3 a {
   color: #151948;
 }
-#airdrop .airdrop-item-wrapper p {
+#presale .presale-item-wrapper p {
   font-size: 15px;
   line-height: 23px;
   margin-bottom: 20px;
 }
-#airdrop .airdrop-item-wrapper a.read-more {
+#presale .presale-item-wrapper a.read-more {
   color: #000000;
   font-size: 14px;
   text-transform: uppercase;
   font-weight: 500;
   position: relative;
 }
-#airdrop .airdrop-item-wrapper a.read-more i {
+#presale .presale-item-wrapper a.read-more i {
   color: #000000;
   font-size: 10px;
   position: absolute;
   top: 3px;
 }
-#airdrop .airdrop-item-wrapper .author {
+#presale .presale-item-wrapper .author {
   border-top: 1px solid #ddd;
   padding: 18px 30px 35px 30px;
 }
-#airdrop .airdrop-item-wrapper span.name a {
+#presale .presale-item-wrapper span.name a {
   color: #5e629c;
   font-size: 14px;
 }
-#airdrop .airdrop-item-wrapper span.name i {
+#presale .presale-item-wrapper span.name i {
   color: #000000;
   margin-right: 5px;
 }
-#airdrop .airdrop-item-wrapper span.date a {
+#presale .presale-item-wrapper span.date a {
   color: #5e629c;
   font-size: 14px;
 }
-#airdrop .airdrop-item-wrapper span.date i {
+#presale .presale-item-wrapper span.date i {
   color: #000000;
   margin-right: 5px;
 }
 
 /* ==========================================================================
-   airdrop index2 version
+   presale index2 version
    ========================================================================== */
-#airdrop2 {
+#presale2 {
   background: #fff;
 }
-#airdrop2 .airdrop-item-wrapper {
+#presale2 .presale-item-wrapper {
   border: 1px solid #ddd;
   background-color: #fff;
   -moz-transition: all 0.8s ease;
   -webkit-transition: all 0.8s ease;
   transition: all 0.8s ease;
 }
-#airdrop2 .airdrop-item-wrapper:hover {
+#presale2 .presale-item-wrapper:hover {
   box-shadow: 0px 0px 25px 0px rgba(95, 95, 95, 0.24);
   -moz-transition: all 0.8s ease;
   -webkit-transition: all 0.8s ease;
   transition: all 0.8s ease;
   border-color: #ff704f;
 }
-#airdrop2 .airdrop-item-wrapper:hover h3 a {
+#presale2 .presale-item-wrapper:hover h3 a {
   color: #ff704f;
 }
-#airdrop2 .airdrop-item-wrapper .airdrop-item-text {
+#presale2 .presale-item-wrapper .presale-item-text {
   padding: 26px 30px 30px 30px;
 }
-#airdrop2 .airdrop-item-wrapper h3 {
+#presale2 .presale-item-wrapper h3 {
   font-size: 20px;
   font-weight: 600;
   line-height: 28px;
   margin-bottom: 12px;
 }
-#airdrop2 .airdrop-item-wrapper h3 a {
+#presale2 .presale-item-wrapper h3 a {
   color: #151948;
 }
-#airdrop2 .airdrop-item-wrapper p {
+#presale2 .presale-item-wrapper p {
   font-size: 15px;
   line-height: 23px;
   margin-bottom: 20px;
 }
-#airdrop2 .airdrop-item-wrapper a.read-more {
+#presale2 .presale-item-wrapper a.read-more {
   color: #ff704f;
   font-size: 14px;
   text-transform: uppercase;
   font-weight: 500;
   position: relative;
 }
-#airdrop2 .airdrop-item-wrapper a.read-more i {
+#presale2 .presale-item-wrapper a.read-more i {
   color: #ff704f;
   font-size: 10px;
   position: absolute;
   top: 3px;
 }
-#airdrop2 .airdrop-item-wrapper .author {
+#presale2 .presale-item-wrapper .author {
   border-top: 1px solid #ddd;
   padding: 18px 30px 35px 30px;
 }
-#airdrop2 .airdrop-item-wrapper span.name a {
+#presale2 .presale-item-wrapper span.name a {
   color: #5e629c;
   font-size: 14px;
 }
-#airdrop2 .airdrop-item-wrapper span.name i {
+#presale2 .presale-item-wrapper span.name i {
   color: #ff704f;
   margin-right: 5px;
 }
-#airdrop2 .airdrop-item-wrapper span.date a {
+#presale2 .presale-item-wrapper span.date a {
   color: #5e629c;
   font-size: 14px;
 }
-#airdrop2 .airdrop-item-wrapper span.date i {
+#presale2 .presale-item-wrapper span.date i {
   color: #ff704f;
   margin-right: 5px;
 }
 
 /* ==========================================================================
-   airdrop single post section
+   presale single post section
    ========================================================================== */
-.airdrop-hero-area .contents h2 {
+.presale-hero-area .contents h2 {
   color: #fff;
   font-size: 52px;
   font-weight: 300;
   margin-bottom: 25px;
 }
 
-#airdrop .airdrop-item-wrapper {
+#presale .presale-item-wrapper {
   -webkit-transition: transform 0.2s linear, -webkit-box-shadow 0.2s linear;
   -moz-transition: transform 0.2s linear, -moz-box-shadow 0.2s linear;
   transition: transform 0.2s linear, box-shadow 0.2s linear;
 }
 
-#airdrop .airdrop-item-wrapper:hover {
+#presale .presale-item-wrapper:hover {
   box-shadow: 0 10px 50px 0 rgba(84, 110, 122, 0.35);
   -webkit-transform: translateY(-5px);
   transform: translateY(-5px);
 }
 
-#airdrop-single {
+#presale-single {
   padding: 80px 0;
   background: #ecf0f1;
 }
 
-#airdrop-single .airdrop-post {
+#presale-single .presale-post {
   background: #fff;
   overflow: hidden;
   margin-bottom: 40px;
 }
 
-#airdrop-single .airdrop-post .post-thumb img {
+#presale-single .presale-post .post-thumb img {
   width: 100%;
 }
 
-#airdrop-single .airdrop-post .post-content {
+#presale-single .presale-post .post-content {
   padding: 30px;
 }
 
-#airdrop-single .airdrop-post .post-content h3 {
+#presale-single .presale-post .post-content h3 {
   font-size: 30px;
   padding-bottom: 10px;
 }
 
-#airdrop-single .airdrop-comment {
+#presale-single .presale-comment {
   background: #fff;
   padding: 50px 30px;
   margin-top: 30px;
   overflow: hidden;
 }
 
-#airdrop-single .airdrop-comment h4 {
+#presale-single .presale-comment h4 {
   font-size: 24px;
   margin-bottom: 30px;
 }
 
-#airdrop-single .airdrop-comment .comment-list {
+#presale-single .presale-comment .comment-list {
   list-style: none;
   margin: 0;
   padding: 0;
   margin-bottom: 50px;
 }
 
-#airdrop-single .airdrop-comment .comment-list .the-comment {
+#presale-single .presale-comment .comment-list .the-comment {
   border-bottom: 1px solid #e7e6e6;
   padding-bottom: 25px;
   margin-bottom: 25px;
 }
 
-#airdrop-single .airdrop-comment .comment-list .children {
+#presale-single .presale-comment .comment-list .children {
   padding-left: 40px;
 }
 
-#airdrop-single .airdrop-comment .avatar {
+#presale-single .presale-comment .avatar {
   float: left;
   margin-right: 15px;
   padding: 5px;
@@ -1592,40 +1592,40 @@ button:focus {
   border: 1px dashed #346afe;
 }
 
-#airdrop-single .airdrop-comment .comment-author {
+#presale-single .presale-comment .comment-author {
   margin-bottom: 10px;
 }
 
-#airdrop-single .airdrop-comment .meta {
+#presale-single .presale-comment .meta {
   margin-bottom: 10px;
   color: #999;
 }
 
-.airdrop-hero-area .post-meta {
+.presale-hero-area .post-meta {
   color: #fff;
   margin-top: 15px;
   margin-bottom: 15px;
 }
 
-.airdrop-hero-area .post-meta ul li {
+.presale-hero-area .post-meta ul li {
   display: inline-block;
   margin-right: 8px;
   margin-left: 8px;
 }
 
-.airdrop-hero-area .post-meta ul li i {
+.presale-hero-area .post-meta ul li i {
   margin-right: 5px;
 }
 
-.airdrop-hero-area .post-meta ul li a {
+.presale-hero-area .post-meta ul li a {
   color: #fff;
 }
 
-.airdrop-hero-area .post-meta ul li a:hover {
+.presale-hero-area .post-meta ul li a:hover {
   color: #ff704f;
 }
 
-#airdrop-single .form-control {
+#presale-single .form-control {
   width: 100%;
   margin-bottom: 20px;
   padding: 15px 30px;
@@ -1638,7 +1638,7 @@ button:focus {
   transition: all 0.3s;
 }
 
-#airdrop-single .btn-common {
+#presale-single .btn-common {
   background-color: #ff704f;
   position: relative;
   z-index: 1;
@@ -1648,7 +1648,7 @@ button:focus {
   padding: 14px 15px;
 }
 
-#airdrop-single .form-control:focus {
+#presale-single .form-control:focus {
   border: 1px solid #ff704f;
   outline: none;
   box-shadow: none;
@@ -1672,7 +1672,7 @@ button:focus {
   opacity: 1;
 }
 
-#airdrop-single textarea {
+#presale-single textarea {
   border-radius: 4px !important;
 }
 
